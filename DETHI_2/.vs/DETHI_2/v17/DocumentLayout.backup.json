@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hung\\Desktop\\VuLuongTheHung_2280601120\\De_2\\DETHI_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A23608-ABF0-4D1E-93B7-464BD7D73274}|DETHI_2.csproj|c:\\users\\hung\\desktop\\vuluongthehung_2280601120\\de_2\\dethi_2\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A23608-ABF0-4D1E-93B7-464BD7D73274}|DETHI_2.csproj|solutionrelative:frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A23608-ABF0-4D1E-93B7-464BD7D73274}|DETHI_2.csproj|C:\\Users\\Hung\\Desktop\\VuLuongTheHung_2280601120\\De_2\\DETHI_2\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0A23608-ABF0-4D1E-93B7-464BD7D73274}|DETHI_2.csproj|solutionrelative:frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A23608-ABF0-4D1E-93B7-464BD7D73274}|DETHI_2.csproj|C:\\Users\\Hung\\Desktop\\VuLuongTheHung_2280601120\\De_2\\DETHI_2\\frmsanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A23608-ABF0-4D1E-93B7-464BD7D73274}|DETHI_2.csproj|solutionrelative:frmsanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\Hung\\Desktop\\VuLuongTheHung_2280601120\\De_2\\DETHI_2\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "frmSanPham.cs",
+              "ToolTip": "C:\\Users\\Hung\\Desktop\\VuLuongTheHung_2280601120\\De_2\\DETHI_2\\frmSanPham.cs",
+              "RelativeToolTip": "frmSanPham.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T01:33:18.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hung\\Desktop\\VuLuongTheHung_2280601120\\De_2\\DETHI_2\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "frmSanPham.cs",
+              "ToolTip": "C:\\Users\\Hung\\Desktop\\VuLuongTheHung_2280601120\\De_2\\DETHI_2\\frmSanPham.cs [Design]",
+              "RelativeToolTip": "frmSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T01:17:53.514Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSanPham.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hung\\Desktop\\VuLuongTheHung_2280601120\\De_2\\DETHI_2\\frmSanPham.Designer.cs",
+              "RelativeDocumentMoniker": "frmSanPham.Designer.cs",
+              "ToolTip": "C:\\Users\\Hung\\Desktop\\VuLuongTheHung_2280601120\\De_2\\DETHI_2\\frmSanPham.Designer.cs",
+              "RelativeToolTip": "frmSanPham.Designer.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAD4vwcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T01:29:13.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

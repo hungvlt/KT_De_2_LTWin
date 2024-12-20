@@ -1,0 +1,15 @@
+C:\Users\Hung\Desktop\VuLuongTheHung_2280601120\De_2\DETHI_2\bin\Debug\DETHI_2.exe.config
+C:\Users\Hung\Desktop\VuLuongTheHung_2280601120\De_2\DETHI_2\bin\Debug\DETHI_2.exe
+C:\Users\Hung\Desktop\VuLuongTheHung_2280601120\De_2\DETHI_2\bin\Debug\DETHI_2.pdb
+C:\Users\Hung\Desktop\VuLuongTheHung_2280601120\De_2\DETHI_2\bin\Debug\EntityFramework.dll
+C:\Users\Hung\Desktop\VuLuongTheHung_2280601120\De_2\DETHI_2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hung\Desktop\VuLuongTheHung_2280601120\De_2\DETHI_2\bin\Debug\EntityFramework.xml
+C:\Users\Hung\Desktop\VuLuongTheHung_2280601120\De_2\DETHI_2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hung\Desktop\VuLuongTheHung_2280601120\De_2\DETHI_2\obj\Debug\DETHI_2.csproj.AssemblyReference.cache
+C:\Users\Hung\Desktop\VuLuongTheHung_2280601120\De_2\DETHI_2\obj\Debug\DETHI_2.frmSanPham.resources
+C:\Users\Hung\Desktop\VuLuongTheHung_2280601120\De_2\DETHI_2\obj\Debug\DETHI_2.Properties.Resources.resources
+C:\Users\Hung\Desktop\VuLuongTheHung_2280601120\De_2\DETHI_2\obj\Debug\DETHI_2.csproj.GenerateResource.cache
+C:\Users\Hung\Desktop\VuLuongTheHung_2280601120\De_2\DETHI_2\obj\Debug\DETHI_2.csproj.CoreCompileInputs.cache
+C:\Users\Hung\Desktop\VuLuongTheHung_2280601120\De_2\DETHI_2\obj\Debug\DETHI_2.csproj.Up2Date
+C:\Users\Hung\Desktop\VuLuongTheHung_2280601120\De_2\DETHI_2\obj\Debug\DETHI_2.exe
+C:\Users\Hung\Desktop\VuLuongTheHung_2280601120\De_2\DETHI_2\obj\Debug\DETHI_2.pdb
